@@ -1,0 +1,12 @@
+10 - Exists in DP2
+20 - Frame data processed
+30 - Records added to the JobQueue table on HOLD
+	35 - Records added to the JobQueue table previously now flagged as READY
+40 - Images have been rendered
+50 - Copyright and Merge text files are with the rendered images 
+60 - NWP files moved to initiate processing of the disc (Completed)
+80 - Redo
+	81 - Resubmit processed
+	82 - Resubmit failed
+90 - Error
+	91 - An email has been sent to notify of the error.

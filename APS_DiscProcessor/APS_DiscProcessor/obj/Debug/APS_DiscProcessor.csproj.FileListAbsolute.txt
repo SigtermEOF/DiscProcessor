@@ -1,0 +1,26 @@
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Debug\APS_DiscProcessor.exe.config
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.Main_Looper_Form.resources
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.Properties.Resources.resources
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.csproj.GenerateResource.Cache
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Debug\APS_DiscProcessor.exe
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Debug\APS_DiscProcessor.pdb
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.exe
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.pdb
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Debug\APS_DiscProcessor.exe.config
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.exe
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.pdb
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Debug\APS_DiscProcessor.exe
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Debug\APS_DiscProcessor.pdb
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.Main_Looper_Form.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.Properties.Resources.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.csproj.GenerateResource.Cache
+W:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Debug\APS_DiscProcessor.exe.config
+W:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.exe
+W:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.pdb
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.About.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.ICDorMEGResubmit.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.Login.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.ProjectTableViewer.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\APS_DiscProcessor.ReportGenerator.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\RdlCompile.cache
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Debug\RdlCompile.compiled

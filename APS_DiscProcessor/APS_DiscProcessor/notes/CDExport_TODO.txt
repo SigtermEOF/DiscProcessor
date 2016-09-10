@@ -1,0 +1,14 @@
+To be implemented:
+
+43) handle quantities where 2 pkgs are ordered resulting in multiple discs needed
+
+44) work TM.StampIt into the looper where needed
+
+57) search and delete all string sStop = string.Empty;
+
+58) search for "//" and handle accordingly if needed
+
+59) search for != "" || 
+
+60) add a nwplog checker method (check for errors, verify burn succeeded, etc)
+	60a) add a file.err checker method to check for error'd nwp files

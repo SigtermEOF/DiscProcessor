@@ -1,0 +1,28 @@
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Release\APS_DiscProcessor.exe.config
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Release\APS_DiscProcessor.exe
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Release\APS_DiscProcessor.pdb
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.Main_Looper_Form.resources
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.Properties.Resources.resources
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.csproj.GenerateResource.Cache
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.exe
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.pdb
+R:\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.csprojResolveAssemblyReference.cache
+T:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Release\APS_DiscProcessor.exe.config
+T:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.exe
+T:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.pdb
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Release\APS_DiscProcessor.exe.config
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Release\APS_DiscProcessor.exe
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\bin\Release\APS_DiscProcessor.pdb
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.About.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.ProjectTableViewer.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.Main_Looper_Form.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.Properties.Resources.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.ICDorMEGResubmit.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.Login.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.ReportGenerator.resources
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.csproj.GenerateResource.Cache
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\RdlCompile.cache
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\RdlCompile.compiled
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.exe
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.pdb
+R:\jl projects\APS_DiscProcessor\APS_DiscProcessor\APS_DiscProcessor\obj\Release\APS_DiscProcessor.csprojResolveAssemblyReference.cache

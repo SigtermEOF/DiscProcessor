@@ -1,0 +1,71 @@
+
+new plan:
+
+******************
+
+process and save gathered info for icd and meg discs to the framedata table
+
+process and flag accordingly in the discorders table for pec
+
+******************
+
+*changes for discorders table for pec (sitting based work)
+instead of saving every single frame for pec work:
+	save 1 record per sitting and framenum = multi
+	handle this in code
+
+
+
+
+	
+*****************************************************************************************************
+******delete a pec order from discorders and let it process*******************
+	catch it at beginning of FramesToDB
+	if needed route the saving of sitting based disctypes (PEC) differently than non sitting based disc types(ICD/MEG)
+*****************************************************************************************************
+
+
+
+move the following columns to the discorders table:
+1)image name with path (dp2image) (strip filename for current ImgLoc use)
+2)jobidsneeded (change injection point and 1 gathering point in checkforrenderedimages)
+3)merge file data (update in a single line of code looks like)
+4)nwp file data (update in a single line of code looks like)
+5)error
+6)errordate
+7)errorchecked
+8)errordescription
+
+
+
+pec render check would need to gather all records in discorders table for prodnum + sitting
+	1)if all records are status = 40 then move to status50 -> status60
+
+	
+rendered path: \\hp2\jobs\cdsburn\PEC\<refnum>\<prodnum>\<sitting>\<rendered images here>\
+
+merge files go here: \\hp2\jobs\cdsburn\PEC\<refnum>\<prodnum>\<sitting>\
+
+renders = 
+1)color
+2)b&w
+3)sepia
+4)ces
+
++ static copyright.jpg and rights-release.txt
+
+multiple frames per sitting (1 image per frame)
+
+for example:
+
+sitting # 1
+5 frames = 5 images x 4 renders
+
+jobids needed = frames x 4 per prodnum and sitting(get ids per sitting)
+
+
+if disctype = pec
+foreach and set uniqueid = prodnum + sitting + disctype
+save 1 record per sitting (FrameNum = Multi)
+
+	

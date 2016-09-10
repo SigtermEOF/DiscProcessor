@@ -1,0 +1,26 @@
+Label	Value
+CurrentDPLogFile	
+GatherDays	-10
+ExportDefPath	\\isaserver\kpdp2\ExportDefs\
+ExportDefPathDone	\\HP2\VOL1\jobs\cdsburn\Testing\JobQueueFiles\AutoGen\
+LockFile	\\ISASERVER\KPDP2\IDsLockFile
+ICDLabelFile	\\nb1\jobs\cdsburn\CD Labels Templates\Prism\ICD.btw
+CopyrightRelease	Copyright Release Notice
+
+The photographer and owner of the images enclosed on this CD-ROM hereby releases all rights to the 
+enclosed images and grants permission to copy and reproduce the portrait images on this CD-ROM.
+EmailServer	email
+EmailSendTo	jlett@company.mail
+EmailCCSendTo	thegrump1976@gmail.com
+TextMsgSendTo	4233815188@tmomail.net
+RenderedPath	\\HP2\VOL1\jobs\cdsburn\Testing\Rendered\
+ReadyDir1	\\HP2\VOL1\jobs\cdsburn\Testing\Ready\
+ReadyDir2	\\HP2\VOL1\jobs\cdsburn\Testing\Ready-R2\
+ReadyDir3	\\HP2\VOL1\jobs\cdsburn\Testing\Ready-R3\
+ReadyDir4	\\HP2\VOL1\jobs\cdsburn\Testing\Ready-R4\
+SendHereFile	sendhere.txt
+ICDWFilesDirectory	\\hp2\vol1\jobs\cdsburn\ICDW\
+MEGLabelFile	\\hp2\vol1\JOBS\CDSBURN\CD Labels Templates\Prism\pcm1.btw
+ICDRenderedPath	\\HP2\VOL1\jobs\cdsburn\Testing\Rendered\ICD\
+MEGRenderedPath	\\HP2\VOL1\jobs\cdsburn\Testing\Rendered\MEG\
+Admin	JLETT
