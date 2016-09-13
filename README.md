@@ -6,4 +6,5 @@ This application gathers data from various databases (Fox Pro and SQL) and facil
 production programmatically of various image based discs for distribution with school photos.
 
 Main_Looper_Form.cs = Main Form
+
 TaskMethods.cs = helper class
